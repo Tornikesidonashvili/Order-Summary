@@ -1,0 +1,127 @@
+body{
+background-color: #D6E1FF;
+display: flex;
+justify-content: center;
+align-items: center;
+margin: 0;
+height: 100vh;
+font-family: sans-serif;
+margin: 0;
+}
+.photo1{
+  width: 450px;
+  height: 220px;  
+
+}
+.main{
+  overflow: hidden;
+    width: 450px;
+    height: 697px;
+    background-color: #FFFFFF;
+    border-radius: 24px;
+    
+}
+.text1{
+  color: #1F2E55;
+  text-align: center;
+  font-size: 28px;
+  font-weight: 900;
+  padding-top: 20px;
+  
+  
+}
+.text2{
+font-weight: 450;
+font-size: 16px;
+color: #717FA6;
+width: 324px;
+margin: auto;
+text-align: center;
+}
+.card{
+  background-color:  #F7F9FF;
+  max-width: 354px; 
+ height: 98px; 
+  margin: auto;
+  display: flex;
+  align-items: center;
+  padding-left: 15px;
+  border-radius: 10px;
+ 
+
+  
+}
+.freespace{
+  width: 100px;
+  height: 20px;
+}
+.text3{
+  padding-left: 20px;
+  
+
+
+}
+
+.text4{
+  font-weight: 900;
+  font-size: 16px;
+  color: #1F2E55;
+  margin: 0;
+  
+}
+.text5{
+font-weight: 500;
+font-size: 16px;
+color: #717FA6;
+margin: 0;
+padding-top: 6px;
+
+}
+.photo2{
+  width: 48px;
+  height: 48px;
+
+}
+.change{
+  width: 52px;
+  height: 19px;
+  font-size: 14px;
+  font-weight: 700;
+ color:  #382AE1 ;
+ text-decoration: underline;
+  padding-left: 100px;
+ 
+}
+.sign{
+ margin: auto;
+ width: 354px;
+ height: 50px;
+ background-color: #382AE1;
+ border-radius: 20px;
+ display: flex;
+ align-items: center;
+ justify-content: center;
+ 
+
+}
+.text6{
+  font-weight: 900;
+  font-size: 15px;
+  color: #FFFFFF;
+  margin: auto;
+ 
+
+
+}
+.freeespace2{
+  width: 100%;
+  height: 35px;
+}
+.text7{
+  color: #717FA6;
+  font-weight: 900;
+  font-size: 15px;
+  width: 120px;
+  margin: auto;
+  padding-top: 30px;
+}
